@@ -1,0 +1,34 @@
+{
+    "resp":true,
+    "token":"abcdefg",
+    "energyTop":[
+        {
+            "name":"张三",
+            "number":"黑A3156"
+        },
+        {
+            "name":"李四",
+            "number":"黑A3236"
+        },
+        {
+            "name":"王五",
+            "number":"黑A5236"
+        }
+    ],
+    "carExc":{
+        "happenNum":53,
+        "carNum":32
+    },
+    "emotionExc":{
+        "happenNum":42,
+        "carNum":86
+    },
+    "operateExc":{
+        "happenNum":76,
+        "carNum":34
+    },
+    "energyExc":{
+        "happenNum":15,
+        "carNum":23
+    }
+}
