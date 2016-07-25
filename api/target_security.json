@@ -1,42 +1,42 @@
 {
-    "resp":true,
-    "token":"abcdefg",
-    "energyTop":[
+    "resp": true,
+    "token": "abcdefg",
+    "energyTop": [
         {
-            "dangerName":"急刹车1",
-            "dangerNum":56,
-			"dangerPer":52.3
+            "dangerName": "急刹车1",
+            "dangerNum": 56,
+            "dangerPer": 52.3
         },
         {
-            "dangerName":"急刹车2",
-            "dangerNum":46,
-			"dangerPer":32.3
+            "dangerName": "急刹车2",
+            "dangerNum": 46,
+            "dangerPer": 32.3
         },
         {
-            "dangerName":"急刹车3",
-            "dangerNum":36,
-			"dangerPer":52.3
-        },
-		        {
-            "dangerName":"急刹车4",
-            "dangerNum":26,
-			"dangerPer":12.3
+            "dangerName": "急刹车3",
+            "dangerNum": 36,
+            "dangerPer": 52.3
         },
         {
-            "dangerName":"急刹车5",
-            "dangerNum":16,
-			"dangerPer":6.3
+            "dangerName": "急刹车4",
+            "dangerNum": 26,
+            "dangerPer": 12.3
         },
         {
-            "dangerName":"急刹车6",
-            "dangerNum":11,
-			"dangerPer":3.3
+            "dangerName": "急刹车5",
+            "dangerNum": 16,
+            "dangerPer": 6.3
+        },
+        {
+            "dangerName": "急刹车6",
+            "dangerNum": 11,
+            "dangerPer": 3.3
         }
     ],
-    "dangerNum":24,
-    "dangerRatio":5.5,
-	"dangerArrow":1,
-    "dangerDriverNum":13,
-    "dangerDriverRatio":6.3
-	"dangerDriverArrow":2,
+    "dangerNum": 24,
+    "dangerRatio": 5.5,
+    "dangerArrow": 1,
+    "dangerDriverNum": 13,
+    "dangerDriverRatio": 6.3,
+    "dangerDriverArrow": 2
 }
