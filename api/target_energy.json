@@ -1,0 +1,45 @@
+{
+    "resp": true,
+    "token": "abcdefg",
+    "energyTop": [
+        {
+            "line": "601路",
+            "carNum": "黑A3611",
+            "consumerPer": 52.31
+        },
+        {
+            "line": "601路",
+            "carNum": "黑A3612",
+            "consumerPer": 32.32
+        },
+        {
+            "line": "601路",
+            "carNum": "黑A3613",
+            "consumerPer": 52.33
+        },
+        {
+            "line": "601路",
+            "carNum": "黑A3614",
+            "consumerPer": 12.34
+        },
+        {
+            "line": "601路",
+            "carNum": "黑A3615",
+            "consumerPer": 6.35
+        },
+        {
+            "line": "601路",
+            "carNum": "黑A3616",
+            "consumerPer": 3.36
+        }
+    ],
+    "oilConsumer": 24,
+    "oilConsumerRatio": 5.5,
+    "oilConsumerArrow": 1,
+    "gasConsumer": 13,
+    "gasConsumerRatio": 6.3,
+    "gasConsumerArrow": 2,
+    "elecConsumer": 17,
+    "elecConsumerRatio": 7.3,
+    "elecConsumerArrow": 0
+}
