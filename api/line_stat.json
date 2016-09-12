@@ -1,0 +1,554 @@
+{
+    "retcode": 1,
+    "data": [
+        {
+            "siteId": 101,
+            "lineId": 10,
+            "siteName": "河梁街",
+            "gps_x": 126.593173,
+            "gps_y": 45.756197,
+            "type": "1",
+            "order": 1
+        },
+        {
+            "siteId": 102,
+            "lineId": 10,
+            "siteName": "河鼓街",
+            "gps_x": 126.593244,
+            "gps_y": 45.754679,
+            "type": "1",
+            "order": 2
+        },
+        {
+            "siteId": 103,
+            "lineId": 10,
+            "siteName": "河政小区",
+            "gps_x": 126.594735,
+            "gps_y": 45.752635,
+            "type": "1",
+            "order": 3
+        },
+        {
+            "siteId": 105,
+            "lineId": 10,
+            "siteName": "建国公园",
+            "gps_x": 126.599235,
+            "gps_y": 45.749143,
+            "type": "1",
+            "order": 4
+        },
+        {
+            "siteId": 106,
+            "lineId": 10,
+            "siteName": "中心医院",
+            "gps_x": 126.602996,
+            "gps_y": 45.747563,
+            "type": "1",
+            "order": 5
+        },
+        {
+            "siteId": 107,
+            "lineId": 10,
+            "siteName": "民众街",
+            "gps_x": 126.608924,
+            "gps_y": 45.743767,
+            "type": "1",
+            "order": 6
+        },
+        {
+            "siteId": 108,
+            "lineId": 10,
+            "siteName": "大发市场",
+            "gps_x": 126.604192,
+            "gps_y": 45.736991,
+            "type": "1",
+            "order": 7
+        },
+        {
+            "siteId": 109,
+            "lineId": 10,
+            "siteName": "和兴路",
+            "gps_x": 126.612094,
+            "gps_y": 45.733924,
+            "type": "1",
+            "order": 8
+        },
+        {
+            "siteId": 110,
+            "lineId": 10,
+            "siteName": "和兴三道街",
+            "gps_x": 126.613381,
+            "gps_y": 45.729611,
+            "type": "1",
+            "order": 9
+        },
+        {
+            "siteId": 111,
+            "lineId": 10,
+            "siteName": "和兴十一道街",
+            "gps_x": 126.61034,
+            "gps_y": 45.725263,
+            "type": "1",
+            "order": 10
+        },
+        {
+            "siteId": 112,
+            "lineId": 10,
+            "siteName": "哈理工大学",
+            "gps_x": 126.611289,
+            "gps_y": 45.716301,
+            "type": "1",
+            "order": 11
+        },
+        {
+            "siteId": 113,
+            "lineId": 10,
+            "siteName": "黑龙江大学（二一一医院）",
+            "gps_x": 126.612502,
+            "gps_y": 45.710825,
+            "type": "1",
+            "order": 12
+        },
+        {
+            "siteId": 114,
+            "lineId": 10,
+            "siteName": "服装城",
+            "gps_x": 126.613049,
+            "gps_y": 45.708262,
+            "type": "1",
+            "order": 13
+        },
+        {
+            "siteId": 115,
+            "lineId": 10,
+            "siteName": "国润家饰城",
+            "gps_x": 126.611842,
+            "gps_y": 45.704314,
+            "type": "1",
+            "order": 14
+        },
+        {
+            "siteId": 116,
+            "lineId": 10,
+            "siteName": "哈尔滨学院",
+            "gps_x": 126.606667,
+            "gps_y": 45.703748,
+            "type": "1",
+            "order": 15
+        },
+        {
+            "siteId": 117,
+            "lineId": 10,
+            "siteName": "政法干部学院",
+            "gps_x": 126.598017,
+            "gps_y": 45.702789,
+            "type": "1",
+            "order": 16
+        },
+        {
+            "siteId": 118,
+            "lineId": 10,
+            "siteName": "中兴大道（哈西大街路口）",
+            "gps_x": 126.593897,
+            "gps_y": 45.702324,
+            "type": "1",
+            "order": 17
+        },
+        {
+            "siteId": 119,
+            "lineId": 10,
+            "siteName": "哈西万达广场",
+            "gps_x": 126.587835,
+            "gps_y": 45.701661,
+            "type": "1",
+            "order": 18
+        },
+        {
+            "siteId": 120,
+            "lineId": 10,
+            "siteName": "哈西长途客运站",
+            "gps_x": 126.580567,
+            "gps_y": 45.70189,
+            "type": "1",
+            "order": 19
+        },
+        {
+            "siteId": 121,
+            "lineId": 10,
+            "siteName": "哈尔滨大街（中兴左街路口）",
+            "gps_x": 126.583533,
+            "gps_y": 45.697236,
+            "type": "1",
+            "order": 20
+        },
+        {
+            "siteId": 122,
+            "lineId": 10,
+            "siteName": "哈尔滨大街（复旦街路口）",
+            "gps_x": 126.587739,
+            "gps_y": 45.694074,
+            "type": "1",
+            "order": 21
+        },
+        {
+            "siteId": 123,
+            "lineId": 10,
+            "siteName": "阳光家园",
+            "gps_x": 126.584295,
+            "gps_y": 45.689499,
+            "type": "1",
+            "order": 22
+        },
+        {
+            "siteId": 124,
+            "lineId": 10,
+            "siteName": "富山屯",
+            "gps_x": 126.576039,
+            "gps_y": 45.685095,
+            "type": "1",
+            "order": 23
+        },
+        {
+            "siteId": 125,
+            "lineId": 10,
+            "siteName": "永红村",
+            "gps_x": 126.568684,
+            "gps_y": 45.682963,
+            "type": "1",
+            "order": 24
+        },
+        {
+            "siteId": 126,
+            "lineId": 10,
+            "siteName": "三环路口",
+            "gps_x": 126.554619,
+            "gps_y": 45.675977,
+            "type": "1",
+            "order": 25
+        },
+        {
+            "siteId": 127,
+            "lineId": 10,
+            "siteName": "农业工程学院",
+            "gps_x": 126.55272,
+            "gps_y": 45.673428,
+            "type": "1",
+            "order": 26
+        },
+        {
+            "siteId": 128,
+            "lineId": 10,
+            "siteName": "熙街生活广场",
+            "gps_x": 126.550714,
+            "gps_y": 45.670939,
+            "type": "1",
+            "order": 27
+        },
+        {
+            "siteId": 129,
+            "lineId": 10,
+            "siteName": "王岗市场",
+            "gps_x": 126.549061,
+            "gps_y": 45.668885,
+            "type": "1",
+            "order": 28
+        },
+        {
+            "siteId": 130,
+            "lineId": 10,
+            "siteName": "恒隆嘉园",
+            "gps_x": 126.547385,
+            "gps_y": 45.66701,
+            "type": "1",
+            "order": 29
+        },
+        {
+            "siteId": 131,
+            "lineId": 10,
+            "siteName": "三十七中学",
+            "gps_x": 126.544691,
+            "gps_y": 45.663629,
+            "type": "1",
+            "order": 30
+        },
+        {
+            "siteId": 132,
+            "lineId": 10,
+            "siteName": "艺体街公交首末站",
+            "gps_x": 126.542293,
+            "gps_y": 45.66075,
+            "type": "1",
+            "order": 31
+        },
+        {
+            "siteId": 133,
+            "lineId": 10,
+            "siteName": "艺体街公交首末站",
+            "gps_x": 126.542319,
+            "gps_y": 45.660641,
+            "type": "2",
+            "order": 32
+        },
+        {
+            "siteId": 134,
+            "lineId": 10,
+            "siteName": "三十七中学",
+            "gps_x": 126.544618,
+            "gps_y": 45.663423,
+            "type": "2",
+            "order": 33
+        },
+        {
+            "siteId": 135,
+            "lineId": 10,
+            "siteName": "恒隆嘉园",
+            "gps_x": 126.546881,
+            "gps_y": 45.666197,
+            "type": "2",
+            "order": 34
+        },
+        {
+            "siteId": 136,
+            "lineId": 10,
+            "siteName": "熙街生活广场",
+            "gps_x": 126.549456,
+            "gps_y": 45.669309,
+            "type": "2",
+            "order": 35
+        },
+        {
+            "siteId": 137,
+            "lineId": 10,
+            "siteName": "农业工程学院",
+            "gps_x": 126.552139,
+            "gps_y": 45.672581,
+            "type": "2",
+            "order": 36
+        },
+        {
+            "siteId": 138,
+            "lineId": 10,
+            "siteName": "三环路口",
+            "gps_x": 126.554547,
+            "gps_y": 45.675501,
+            "type": "2",
+            "order": 37
+        },
+        {
+            "siteId": 139,
+            "lineId": 10,
+            "siteName": "永红村",
+            "gps_x": 126.568479,
+            "gps_y": 45.682697,
+            "type": "2",
+            "order": 38
+        },
+        {
+            "siteId": 140,
+            "lineId": 10,
+            "siteName": "富山屯",
+            "gps_x": 126.576118,
+            "gps_y": 45.684968,
+            "type": "2",
+            "order": 39
+        },
+        {
+            "siteId": 141,
+            "lineId": 10,
+            "siteName": "阳光家园",
+            "gps_x": 126.584271,
+            "gps_y": 45.689327,
+            "type": "2",
+            "order": 40
+        },
+        {
+            "siteId": 142,
+            "lineId": 10,
+            "siteName": "哈尔滨大街（复旦街路口）",
+            "gps_x": 126.588665,
+            "gps_y": 45.693516,
+            "type": "2",
+            "order": 41
+        },
+        {
+            "siteId": 143,
+            "lineId": 10,
+            "siteName": "哈尔滨大街（中兴左街路口）",
+            "gps_x": 126.583912,
+            "gps_y": 45.697121,
+            "type": "2",
+            "order": 42
+        },
+        {
+            "siteId": 144,
+            "lineId": 10,
+            "siteName": "哈西长途客运站",
+            "gps_x": 126.580658,
+            "gps_y": 45.701411,
+            "type": "2",
+            "order": 43
+        },
+        {
+            "siteId": 145,
+            "lineId": 10,
+            "siteName": "哈西万达广场",
+            "gps_x": 126.587857,
+            "gps_y": 45.701486,
+            "type": "2",
+            "order": 44
+        },
+        {
+            "siteId": 146,
+            "lineId": 10,
+            "siteName": "中兴大道（哈西大街接路口）",
+            "gps_x": 126.592916,
+            "gps_y": 45.702096,
+            "type": "2",
+            "order": 45
+        },
+        {
+            "siteId": 147,
+            "lineId": 10,
+            "siteName": "政法干部学院",
+            "gps_x": 126.599793,
+            "gps_y": 45.702819,
+            "type": "2",
+            "order": 46
+        },
+        {
+            "siteId": 148,
+            "lineId": 10,
+            "siteName": "哈尔滨学院",
+            "gps_x": 126.607963,
+            "gps_y": 45.703782,
+            "type": "2",
+            "order": 47
+        },
+        {
+            "siteId": 149,
+            "lineId": 10,
+            "siteName": "国润家饰城",
+            "gps_x": 126.611429,
+            "gps_y": 45.704149,
+            "type": "2",
+            "order": 48
+        },
+        {
+            "siteId": 150,
+            "lineId": 10,
+            "siteName": "服装城",
+            "gps_x": 126.613848,
+            "gps_y": 45.70636,
+            "type": "2",
+            "order": 49
+        },
+        {
+            "siteId": 151,
+            "lineId": 10,
+            "siteName": "黑龙江大学（二一一医院）",
+            "gps_x": 126.612968,
+            "gps_y": 45.710327,
+            "type": "2",
+            "order": 50
+        },
+        {
+            "siteId": 152,
+            "lineId": 10,
+            "siteName": "哈理工大学",
+            "gps_x": 126.611869,
+            "gps_y": 45.716129,
+            "type": "2",
+            "order": 51
+        },
+        {
+            "siteId": 153,
+            "lineId": 10,
+            "siteName": "和兴十一道街",
+            "gps_x": 126.610195,
+            "gps_y": 45.72472,
+            "type": "2",
+            "order": 52
+        },
+        {
+            "siteId": 154,
+            "lineId": 10,
+            "siteName": "和兴三道街",
+            "gps_x": 126.613451,
+            "gps_y": 45.729375,
+            "type": "2",
+            "order": 53
+        },
+        {
+            "siteId": 155,
+            "lineId": 10,
+            "siteName": "和兴路",
+            "gps_x": 126.61446,
+            "gps_y": 45.733438,
+            "type": "2",
+            "order": 54
+        },
+        {
+            "siteId": 156,
+            "lineId": 10,
+            "siteName": "大发市场",
+            "gps_x": 126.604232,
+            "gps_y": 45.737369,
+            "type": "2",
+            "order": 55
+        },
+        {
+            "siteId": 157,
+            "lineId": 10,
+            "siteName": "民众街",
+            "gps_x": 126.608765,
+            "gps_y": 45.743471,
+            "type": "2",
+            "order": 56
+        },
+        {
+            "siteId": 158,
+            "lineId": 10,
+            "siteName": "中心医院",
+            "gps_x": 126.60346,
+            "gps_y": 45.747338,
+            "type": "2",
+            "order": 57
+        },
+        {
+            "siteId": 159,
+            "lineId": 10,
+            "siteName": "建国公园",
+            "gps_x": 126.599565,
+            "gps_y": 45.749015,
+            "type": "2",
+            "order": 58
+        },
+        {
+            "siteId": 160,
+            "lineId": 10,
+            "siteName": "河政小区",
+            "gps_x": 126.595161,
+            "gps_y": 45.752354,
+            "type": "2",
+            "order": 59
+        },
+        {
+            "siteId": 161,
+            "lineId": 10,
+            "siteName": "河鼓街",
+            "gps_x": 126.593739,
+            "gps_y": 45.7543,
+            "type": "2",
+            "order": 60
+        },
+        {
+            "siteId": 162,
+            "lineId": 10,
+            "siteName": "河梁街",
+            "gps_x": 126.593267,
+            "gps_y": 45.75619,
+            "type": "2",
+            "order": 61
+        }
+    ]
+}
