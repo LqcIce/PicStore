@@ -1,0 +1,45 @@
+{
+    "resp": true,
+    "token": "abcdefg",
+    "energyTop": [
+        {
+            "lineNumber": "12",
+            "carNumber": "黑A3180",
+            "ErrorName": "车门损坏"
+        },
+        {
+            "lineNumber": "12",
+            "carNumber": "黑A3181",
+            "ErrorName": "车窗损坏"
+        },
+        {
+            "lineNumber": "12",
+            "carNumber": "黑A3182",
+            "ErrorName": "油箱损坏"
+        },
+        {
+            "lineNumber": "12",
+            "carNumber": "黑A3183",
+            "ErrorName": "车灯损坏"
+        },
+        {
+            "lineNumber": "12",
+            "carNumber": "黑A3184",
+            "ErrorName": "轮胎损坏"
+        },
+        {
+            "lineNumber": "12",
+            "carNumber": "黑A3185",
+            "ErrorName": "电池损坏"
+        }
+    ],
+    "normalCarNum": 24,
+    "normalCarRatio": 5.5,
+    "normalCarArrow": 1,
+    "seriousCarNum": 13,
+    "seriousCarRatio": 6.3,
+    "seriousCarArrow": 2,
+    "totalCarNum": 17,
+    "totalCarRatio": 2.3,
+    "totalCarArrow": 0
+}
